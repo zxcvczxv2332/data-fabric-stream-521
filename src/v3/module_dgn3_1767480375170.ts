@@ -1,0 +1,1 @@
+const util_dgn3 = (d: any) => d;
